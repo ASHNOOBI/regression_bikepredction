@@ -10,3 +10,17 @@ Data Cleaning
 EDA
 Model Training and Implementation
 Model Evaluation and Validation
+## Date: Represents the date of data recording.
+## Rented Bike Count: Indicates the number of bikes rented or used.
+## Hour: Shows the hour of the day when the data was recorded.
+## Temperature(°C): Denotes the temperature in degrees Celsius.
+## Humidity(%): Represents the relative humidity percentage.
+## Wind speed (m/s): Shows the wind speed in meters per second.
+## Visibility (10m): Indicates visibility in meters.
+## Dew point temperature(°C): Represents the dew point temperature in degrees Celsius.
+## Solar Radiation (MJ/m2): Denotes solar radiation measured in megajoules per square meter.
+## Rainfall(mm): Indicates the amount of rainfall in millimeters.
+## Snowfall (cm): Represents the amount of snowfall in centimeters.
+## Seasons: Categorizes data into seasons (e.g., spring, summer, fall, winter).
+## Holiday: Indicates whether the day is a holiday ('Yes' or 'No').
+## Functioning Day: Indicates whether the bike rental service was operational ('Yes' or 'No').
