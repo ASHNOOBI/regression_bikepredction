@@ -5,11 +5,13 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 The project involves the following steps:-
 
-Understanding of Business Objective
-Data Cleaning
-EDA
-Model Training and Implementation
-Model Evaluation and Validation
+## Understanding of Business Objective
+## Data Cleaning
+## EDA
+## Model Training and Implementation
+## Model Evaluation and Validation
+
+### FEATURES IN THE DATASET
 ## Date: Represents the date of data recording.
 ## Rented Bike Count: Indicates the number of bikes rented or used.
 ## Hour: Shows the hour of the day when the data was recorded.
